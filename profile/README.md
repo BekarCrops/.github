@@ -1,2 +1,2 @@
-<img src="./banner.png" align="center" width="200"/>
+<img src="./banner.png" align="center" />
 
