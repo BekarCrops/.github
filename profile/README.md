@@ -1,2 +1,4 @@
-<img src="./banner.png" align="center" />
+<p align="center">
+    <img src="./banner.png" />
+<p/>
 
